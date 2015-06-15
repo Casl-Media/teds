@@ -1,4 +1,4 @@
-{
+var sample_data = {
     "name": "sample_dir", 
     "children": [
         {
